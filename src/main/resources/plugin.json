@@ -1,17 +1,14 @@
 {
-	"name": "Default plugin",
-	"author": "Popcorn",
+	"name": "Turkey Module",
+	"author": "Turkey",
 	"version": "1.7.4",
 	"minVersion": "1.13.17 beta 100",
 	"supportedVersion": "1.13.17 beta 100",
 	"features": [
 		"eu.darkbot.popcorn.def.CaptchaPicker",
-		"eu.darkbot.popcorn.def.PalladiumModule",
-		"eu.darkbot.popcorn.def.AntiPush",
-		"eu.darkbot.popcorn.def.FlashPatcher",
 		"eu.darkbot.popcorn.def.UserAgentUpdater",
 		"eu.darkbot.popcorn.def.SampleModule"
 	],
-	"download": "https://github.com/darkbot-reloaded/DefaultPlugin/releases/download/v1.7.4/DefaultPlugin.jar",
+	"download": "https://github.com/AlejoCarbonari/TurkeyModule/releases/download/Rel/DefaultPlugin.jar",
 	"update": "https://raw.githubusercontent.com/darkbot-reloaded/DefaultPlugin/master/src/main/resources/plugin.json"
 }
